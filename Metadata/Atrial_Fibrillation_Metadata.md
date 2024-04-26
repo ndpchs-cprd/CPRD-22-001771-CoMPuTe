@@ -20,12 +20,7 @@
 
 ## Source of Codes
 
-| Repository Source(s)	| 1.	[NHS Primary Care Domain – reference sets (PCD refsets)](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/primary-care-domain-reference-set-portal) |
-| Scraping Date(s)	| 16/04/2024 |
-| Selection Criteria |	Codes must be available in SNOMED |
-| Cluster ID |	AFIB_COD |
-| Cluster Description |	Atrial fibrillation codes |
-| PCD Refset ID |	999010611000230105 |
+<table><tbody><tr><th><p>Repository Source(s)</p></th><th><ol><li><a href="https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/primary-care-domain-reference-set-portal">NHS Primary Care Domain – reference sets</a> (PCD refsets)</li></ol></th></tr><tr><td><p>Scraping Date(s)</p></td><td><p>16/04/2024</p></td></tr><tr><td><p>Selection Criteria</p></td><td><p>Codes must be available in SNOMED</p></td></tr><tr><td><p>Cluster ID</p></td><td><p>AFIB_COD</p></td></tr><tr><td><p>Cluster Description</p></td><td><p>Atrial fibrillation codes</p></td></tr><tr><td><p>PCD Refset ID</p></td><td><p>999010611000230105</p></td></tr></tbody></table>
 
 ## Term Search Results
 
@@ -45,7 +40,5 @@
 
 | Final Number of Codes | 24  |
 
-## Source of Codes
 
-<table><tbody><tr><th><p>Repository Source(s)</p></th><th><ol><li><a href="https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/primary-care-domain-reference-set-portal">NHS Primary Care Domain – reference sets</a> (PCD refsets)</li></ol></th></tr><tr><td><p>Scraping Date(s)</p></td><td><p>16/04/2024</p></td></tr><tr><td><p>Selection Criteria</p></td><td><p>Codes must be available in SNOMED</p></td></tr><tr><td><p>Cluster ID</p></td><td><p>AFIB_COD</p></td></tr><tr><td><p>Cluster Description</p></td><td><p>Atrial fibrillation codes</p></td></tr><tr><td><p>PCD Refset ID</p></td><td><p>999010611000230105</p></td></tr></tbody></table>
 
