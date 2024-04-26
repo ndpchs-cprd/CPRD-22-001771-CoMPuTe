@@ -7,7 +7,7 @@
 | Creator/Researcher Name(s) | Micheal McKenna / Cynthia Wright Drakesmith |
 | Department | CPRD Nuffield Department of Primary Care |
 | Email address | [micheal.mckenna@phc.ox.ac.uk](mailto:micheal.mckenna@phc.ox.ac.uk), [cynthia.wright@phc.ox.ac.uk](mailto:cynthia.wright@phc.ox.ac.uk) |
-| CPRD ISAK Protocol Number |     |
+| CPRD ISAK Protocol Number |   CPRD-22-001771  |
 | EMIS Medical Dictionary Version | Aurum January 2022 EMIS Medical Dictionary |
 
 ## Code List Overview
