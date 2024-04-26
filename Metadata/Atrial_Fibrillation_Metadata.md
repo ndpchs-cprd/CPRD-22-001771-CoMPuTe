@@ -23,9 +23,13 @@
 Repository Source(s)	1.	[NHS Primary Care Domain – reference sets (PCD refsets)](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/primary-care-domain-reference-set-portal)
 
 | Scraping Date(s)	| 16/04/2024 |
+
 | Selection Criteria |	Codes must be available in SNOMED |
+
 | Cluster ID |	AFIB_COD |
+
 | Cluster Description |	Atrial fibrillation codes |
+
 | PCD Refset ID |	999010611000230105 |
 
 ## Term Search Results
