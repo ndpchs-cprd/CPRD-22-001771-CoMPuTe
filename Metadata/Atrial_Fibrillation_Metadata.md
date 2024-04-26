@@ -19,8 +19,8 @@
 | Total number of SNOMED CT Concept IDs with Med Code ID matches | 19  |
 
 ## Source of Codes
-
-Repository Source(s)	1.	[NHS Primary Care Domain – reference sets (PCD refsets)](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/primary-care-domain-reference-set-portal)
+| --- | --- |
+| Repository Source(s)	| 1.	[NHS Primary Care Domain – reference sets (PCD refsets)](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/primary-care-domain-reference-set-portal) |
 
 | Scraping Date(s)	| 16/04/2024 |
 
