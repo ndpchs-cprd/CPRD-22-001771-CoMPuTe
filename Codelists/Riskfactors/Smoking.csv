@@ -1,0 +1,165 @@
+MedCodeId	Term	category
+2982426011	Provision of smoking cessation leaflet	current
+604961000006114	Current Smoker NOS	current
+649851000006112	Ex- Rolled Tobacco Smoker	ex
+649861000006114	Ex-Cigarette Smoker	ex
+852111000006118	Gradual smoking reduction	current
+853001000006110	Ex-smoker NOS	ex
+852991000006114	Ex-cigar smoker	ex
+854021000006115	Cigarette smoker	current
+854051000006112	Ex-pipe smoker	ex
+854071000006119	Current smoker	current
+854111000006110	Past smoker	ex
+854951000006113	Grade A non-smoker	non
+854961000006110	Grade B light smoker (1-10/day)	current
+854981000006117	Grade C moderate smoker (11-20/day)	current
+855001000006114	Grade D heavy smoker (>20 Day)	current
+903981000006117	Not interested in stopping smoking	current
+904001000006111	Ready to stop smoking	current
+904021000006118	Previous smoking quit attempts	current
+904011000006114	Smoking cessation declaration signed by patient	current
+904031000006115	Thinking about stopping smoking	current
+904111000006113	Carbon monoxide validation confirms non-smoker	non
+904121000006117	Carbon monoxide validation confirms smoker	current
+961581000006114	Smokes/uses tobacco products	current
+1009271000006118	Non Smoker - Nos	non
+1777011000006118	Reason for referral: Smoking Cessation	current
+1771191000006119	Attends smoking cessation clinic not at practice	current
+137711000006111	Smoker (Read codes)	current
+854151000006111	Date stopped smoking	ex
+904191000006115	Smoking cessation motivation score	current
+904181000006118	Smoking cessation counselling	current
+904201000006117	Smoking cessation confidence score	current
+904211000006119	Smoking cessation service patient satisfaction score	current
+904221000006110	Smoking cessation bupropion therapy	current
+904231000006113	Smoking cessation counselling by telephone	current
+904241000006115	Smoking cessation counselling in person	current
+909391000006117	[RFC] Smoking cessation	current
+1591651000006110	Smoking cessation referral declined	current
+1626121000006116	Smoking cessation drug therapy - varenicline	current
+1819411000006114	Smoking increased	current
+37311000006117	Other anti-smoking drug given	current
+852121000006114	Smoking cessation-maintain abstinence	ex
+852131000006112	Smoking cessation-practice nurse support	current
+856371000006111	Smoking clinic	current
+1694421000006112	Stop smoking monitoring admin.	current
+1758971000006113	Stop smoking monitoring invitation SMS text message sent	current
+1758981000006111	Stop smoking monitoring invitation first SMS text message sent	current
+1758991000006114	Stop smoking monitoring invitation second SMS text message sent	current
+1759001000006114	Stop smoking monitoring invitation third SMS text message sent	current
+1778181000006110	Group session: Stop smoking education programme	current
+1809131000006111	Total time smoked	current
+137721000006115	Smoker - amount smoked	current
+397732011	Never smoked tobacco	non
+14866014	Non-smoker	non
+88471000006112	Trivial smoker - < 1 cig/day	non
+397733018	Occasional smoker	non
+743331000006116	Light smoker - 1-9 cigs/day	current
+700121000006118	Moderate smoker - 10-19 cigs/d	current
+819331000006110	Heavy smoker - 20-39 cigs/day	current
+67621000006112	Very heavy smoker - 40+cigs/d	current
+250363016	Ex-trivial smoker (<1/day)	ex
+250364010	Ex-light smoker (1-9/day)	ex
+250365011	Ex-moderate smoker (10-19/day)	ex
+250366012	Ex-heavy smoker (20-39/day)	ex
+344795016	Pipe tobacco consumption	current
+250367015	Ex-very heavy smoker (40+/day)	ex
+1488577017	Ready to stop smoking	current
+250368013	Keeps trying to stop smoking	current
+1488576014	Thinking about stopping smoking	current
+1488578010	Not interested in stopping smoking	current
+2670126018	Smoking restarted	current
+250371017	Ex-smoker - amount unknown	ex
+1780360012	Reason for restarting smoking	current
+903041000006110	EX-Smoker NOS	ex
+250372012	Trying to give up smoking	current
+1780396011	Cigarette pack-years	current
+136515019	Pipe smoker	current
+2474719011	Minutes from waking to first tobacco consumption	current
+72373013	Passive smoker	non
+342613016	Exposed to tobacco smoke at home	non
+99639019	Cigar smoker	current
+418914010	Ex-cigarette smoker	ex
+250373019	Stopped smoking	ex
+1151791000000117	Recently stopped smoking	ex
+250374013	Current non-smoker	non
+1059701000000119	Ex roll-up cigarette smoker	ex
+903051000006112	Tobacco Consumption Nil	non
+1592611000000110	Failed attempt to stop smoking	current
+250375014	Rolls own cigarettes	current
+649831000006117	Ex pipe smoker	ex
+342574011	Total time smoked	current
+649821000006115	Ex cigar smoker	ex
+2170961000000116	Waterpipe tobacco consumption	current
+108938018	Cigarette smoker	current
+128130017	Smoker	current
+2669652019	Smoking started	current
+137791000006118	Smoking restarted	current
+503483019	Current smoker	current
+649841000006110	Ex smoker	ex
+250385010	Date ceased smoking	ex
+459702016	Not a passive smoker	non
+216212011	Smoking reduced	current
+344793011	Cigarette consumption	current
+344794017	Cigar consumption	current
+1484932017	Smoking cessation milestones	ex
+1484933010	Negotiated date for cessation of smoking	current
+1488873010	Smoking free weeks	ex
+1773560017	Smoking cessation programme start date	current
+1563081000000115	Practice based smoking cessation programme start date	current
+1125741000000111	Brief intervention for smoking cessation	current
+492511000000117	Smoking cessation therapy	current
+482771000000118	Smoking cessation drug therapy	current
+482871000000111	Other specified smoking cessation therapy	current
+489931000000114	Smoking cessation therapy NOS	current
+2462431000000110	Varenicline smoking cessation therapy offered	current
+303501000000115	Smoking cessation advice provided by community pharmacist	current
+338608011	Smoking cessation advice	current
+1750931000000118	Stop smoking service opportunity signposted	current
+1489355012	Referral to smoking cessation advisor	current
+1715591000006117	Referral to NHS stop smoking service	current
+459722017	Referral to stop-smoking clinic	current
+1176421000000118	Smoking cessation advice declined	current
+1175011000000112	Smoking cessation programme declined	current
+2141561000000115	Smoking cessation drug therapy declined	current
+2462391000000119	Varenicline smoking cessation therapy declined	current
+2251871000000112	Referral to smoking cessation service declined	current
+2251911000000114	Referral to smoking cessation service	current
+736241000000116	Smoking cessation - enhanced services administration	current
+1704491000006115	Smoking cessatn monitor template complet - enhanc serv admin	current
+1741641000006117	Smoking cessation ESA monitoring template completed	current
+1123951000000110	Ex-smoker annual review - enhanced services administration	ex
+1154471000000114	Ex-smoker annual review	ex
+1123751000000113	Non-smoker annual review - enhanced services administration	non
+1154431000000112	Non-smoker annual review	non
+1714541000006110	Current smoker annual review - enhanced services admin	current
+1152111000000118	Current smoker annual review	current
+1780273014	Seen by smoking cessation advisor	current
+62881000000117	DNA - Did not attend smoking cessation clinic	current
+1709641000000115	Referral for smoking cessation service offered	current
+21681000000118	Anti-smoking monitoring admin.	current
+25281000000119	Stop smoking clinic admin.	current
+21691000000116	Stop smoking monitoring admin.	current
+498831000006118	Attends stop smoking monitor.	current
+285792013	Refuses stop smoking monitor	current
+285793015	Stop smoking monitor default	current
+128311000006112	Stop smoking monitor 1st lettr	current
+128321000006116	Stop smoking monitor 2nd lettr	current
+128331000006118	Stop smoking monitor 3rd lettr	current
+128371000006115	Stop smoking monitor verb.inv.	current
+128361000006110	Stop smoking monitor phone inv	current
+285805010	Stop smoking monitoring delete	current
+128381000006117	Stop smoking monitor.chck done	current
+1751721000000113	Stop smoking invitation short message service text message	current
+1785671000006116	Stop smoking invitation first SMS text message	current
+1785681000006118	Stop smoking invitation second SMS text message	current
+1785691000006115	Stop smoking invitation third SMS text message	current
+16261000000110	Stop smoking monitor admin.NOS	current
+78013015	Smokers' cough	current
+342444018	Smokes drugs in cigarette form	current
+852981000006111	Rolls own cigarettes	current
+904041000006113	Waking time to first cigarette	current
+904091000006116	Date of last cigarette	ex
+981841000006115	Exposure to cigarette/cigar smoke	non
+342443012	Smokes drugs	current
+342445017	Smokes drugs through a pipe	current
