@@ -1,0 +1,4 @@
+MedCodeId,Observations,Term,SNOMED_CT_Concept_ID
+374013010,67524,Left ventricular ejection fraction,250908004
+635771000006113,4918,Echocardiogram ejection fraction,635771000006109
+5292721000006113,242,LVEF - Left ventricular ejection fraction,250908004
