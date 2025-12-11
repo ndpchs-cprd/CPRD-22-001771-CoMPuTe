@@ -1,0 +1,99 @@
+Biomarker/Risk factor 	Source of Code list	Reviewed by CPRD team (date)	Signed off by CPRD team	Data extraction made (date)	Data transfer (date)	Notes	Biomarker (values on continous scale)	Mostly commonly used measurement units	Lower biological plausible limit	Upper biological plausible limit	Source of plausible limits (literature (SS), clinician, Scoping review (CH), internet)	Evidence for plausible limits
+Alanine aminotransaminase (ALT) Serum/plasma (also known as alanine aminotransferase)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					IU/I	0	1000		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4953107/#:~:text=Typically%2C%20ALT%20levels%20in%20these,the%20gastroenterology%20or%20hepatology%20teams.
+Albumin (Serum/plasma)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					g/dl	0	200	Literature (SS)	
+Albumin (Urine): Urine albumin level	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mg/mmol	0	1000	Literature (SS)	
+Alkaline phosphatase (ALP) (serum & total)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					U/L	0	3400	Literature (SS)	https://pubmed.ncbi.nlm.nih.gov/9855266/
+Amylase (Serum/plasma)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					U/L	20	400	Literature (SS)	https://www.ncbi.nlm.nih.gov/books/NBK557738/
+Ankle brachial index (unpsecified, left, right	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ratio	0	1.7	Literature (SS)	
+Anti-cyclic citrullinated peptide CCP (Serum)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					U/mL	0	800	Literature (SS)	
+Antithrombin (previously called Antithrombin III)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						5	300		Normal range- 80 – 129%
+Anxiety questionnaire (GAD-7)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					N/A	0	21	Internet	
+Aspartate transaminase (AST) plasma (also known as aspartate aminotransferase)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					IU/l	0	1000		https://www.aafp.org/pubs/afp/issues/1999/0415/p2223.html#:~:text=Typical%20AST%20or%20ALT%20Values%20in%20Disease&text=In%20patients%20with%20uncomplicated%20alcoholic,ischemic%20or%20toxic%20liver%20injury.
+Asthma control questionnaire (ACQ)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					N/A	0	42	Internet	https://www.thoracic.org/members/assemblies/assemblies/srn/questionaires/acq.php
+Astham Control test	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					N/A	0	25	Internet	https://www.asthmacontroltest.com/en-gb/welcome/
+B12 (plasma/serum)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					pg/mL	0	10000	Literature (SS)	
+Basophil count	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					10*9/l	0	1.5		From previous tasks sheet
+Basophils %	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					%	0	30		https://www.verywellhealth.com/what-are-basophils-797206#:~:text=Basophilia%20can%20also%20be%20a,may%20also%20have%20elevated%20basophils.
+BMI	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					kg/m2	5	70		https://pubmed.ncbi.nlm.nih.gov/35569150/#:~:text=This%20article%20presents%20gastrointestinal%20and,only%206.7%20kg%2Fm%C2%B2).
+Body weight	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y							340		Use guiness book of records
+Calcium (Serum) plasma	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmol/L	0	8	Literature (SS)	https://emcrit.org/ibcc/hypercalcemia/
+Calcium adjusted (Serum) or corrected plasma	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					Missing	0	8	Clinician	
+Cancer Antigen 125 (CA125)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					U/ml	0	1,000,000		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6079310/#:~:text=CA%2D125%20is%20secreted%20from,IU%2Fml%20(12).
+Carbohydrate Antigen 19-9 (CA19-9)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					kU/L	0	4000		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8849326/#:~:text=Though%20an%20obstructed%20biliary%20system,significantly%20elevate%20CA%2019%E2%80%939.
+Carcinoembryonic Antigen (CEA)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ng/ml	0	150		https://www.verywellhealth.com/carcinoembryonic-antigen-cea-797561#:~:text=A%20CEA%20over%2010.0%20ng,cavity%2C%20and%20central%20nervous%20system.
+Creatinine clearance (CC)  Cockcroft-Gault	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mL/min	0	500		https://www.ncbi.nlm.nih.gov/books/NBK544228/#:~:text=The%20normal%20range%20of%20CrCl,1.1%20mg%2FdL%20for%20women. Normal range- 100-150
+Creatine Kinase Serum /plasma	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					U/L	0	1000	Literature (SS)	https://link.springer.com/article/10.1007/s10072-006-0701-0
+Creatinine Serum	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					umol/L	0	6921.72	Literature (SS)	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8531789/#:~:text=After%20extensive%20literature%20review%2C%20we,donor%20kidney%20transplant%20(DDKT).
+Creatinine urine (always 24h?)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					umol/24 hrs	0	150000	Literature (SS)	
+C-reactive protein (CRP) plasma	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mg/L	0	300	Literature (SS)	https://nceph.anu.edu.au/research/tools-resources/informant-questionnaire-cognitive-decline-elderly
+Days of Moderate Physical Activity per Week	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					Days	0	7		
+Depression screening using questions	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	5		
+Diastolic blood pressure (DBP)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmHg	50	180	Literature (SS)	
+DXA (T-score) (hip)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y			List all DXA for each part of body			removed	removed		
+						add extra rows if needed (no records of heel)						
+DXA (T-score) (lumbar)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						removed	removed		
+DXA (T-score) (neck)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						removed	removed		
+DXA (T-score) (forearm)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						removed	removed		
+DXA (T-score) (unspecified)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						removed	removed		
+estimated Glomerular Filtration Rate (eGFR) Modification of Diet in Renal Disease (MDRD)/MDRD 6/Simplified MDRD/MDRD 4	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ml/min/1.73 m2	0	180	Literature (SS)	
+estimated Glomerular Filtration Rate (eGFR) Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ml/min/1.73 m2	0	180	Literature (SS)	
+Eosinophil count	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	8		From previous tasks sheet
+Eosinophils %	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					%	0	30		https://www.immunology.org/public-information/bitesized-immunology/cells/eosinophils; https://www.contemporarypediatrics.com/view/eosinophilia-what-does-it-mean
+Erythrocyte Sedimentation Rate (ESR)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mm/hr	0	200	Literature (SS)	
+Fasting Blood Sugar (FBS) (glucose) plasma, serum	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mg/dl	0	500	Literature (SS)	
+Ferritin serum,plasma	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ng/mL	0	100,000	Literature (SS)	https://academic.oup.com/ajcp/article/145/5/646/2195684
+Fibrinogen (fibrinogen level)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					g/L	0	15	Literature (SS)	
+Folate level (known as B9)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ug/L	0	40	Literature (SS)	
+Follicle-stimulating hormone (FSH)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mIU/mL	0	200		https://www.cdc.gov/nchs/data/nhanes/nhanes_01_02/l40_b_met_follicle_stimulating_hormone.pdf
+FRAX calculator (unspecified)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y			List all FRAX for each part of body		N/A	-10	10	Literature (SS)	
+						add extra rows if needed						
+FRAX calculator (hip)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	100		
+Haemoglobin (Hb)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					g/dL	30	210	Literature (SS)	
+Haematocrit (Hc)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0.1	0.6		From previous tasks sheet
+HbA1c	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	200	Literature (SS)	
+Heart rate (=pulse rate)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	301		From SS email 3.4.24 
+TotalSerumCholesterol	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmol/L	0	15		
+TotalChol_HDL_ratio	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	10		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9206383/
+LDL_Cholesterol	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mg/dl	0	50		https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lipid-panel
+Non_HDL	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mg/dl	0	500		https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lipid-panel
+Lactate Dehydrogenase (LDH) (serum/plasma lactate dehydrogenase level)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmol/L	0	15	Literature (SS)	
+High-density lipoprotein (HDL)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmol/L	0	15	Literature (SS)	
+Lymphocyte count	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	850		From previous tasks sheet
+Lymphocytes %	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	100		Normal range-20-40%
+Mean cell haemoglobin (MCH) Should be Mean Corpuscular Haemoglobin	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						15	45		From previous tasks sheet
+Mean cell haemoglobin concentration (MCHC)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						270	370		From previous tasks sheet
+Mean cell volume (MCV)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						ou	125		From previous tasks sheet
+Mean platelet volume (MPV)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						5	20		From previous tasks sheet
+Monocyte count	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	40		From previous tasks sheet
+Monocytes %	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					%	0	15		https://my.clevelandclinic.org/health/body/22110-monocytes
+Neutrophil count	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	850		From previous tasks sheet
+Neutrophils %	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					%	0	100		https://www.ucsfhealth.org/medical-tests/blood-differential-test
+NT-pro-BNP (pro-BNP) serum/plasma	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					pg/mL	0	10000	Literature (SS)	https://onlinelibrary.wiley.com/doi/full/10.1111/j.1751-7133.2011.00258.x
+Oestradiol	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					pmol/L	0	3000		https://www.southtees.nhs.uk/services/pathology/tests/oestradiol/
+O2 saturation (Peripheral oxygen saturation) (need help with code list)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					%	0	100		
+PHQ-9	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y			This maybe presented scores for subgroups. We will need to extract and calculate the final PHQ-9 score		N/A	1	27	Clinician	https://thepcc.org/sites/default/files/resources/instructions.pdf
+Plasma viscosity	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	20		
+Platelet count	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	1500		From previous tasks sheet
+Progesterone	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ng/mL	0	600		https://www.ucsfbenioffchildrens.org/medical-tests/serum-progesterone
+Prostate Specific Antigen (PSA)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ng/mL	0	23,162		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5476709/
+Protein C	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					IU/dL	removed	removed		There is no upper limit. More is better. https://medlineplus.gov/lab-tests/protein-c-and-protein-s-tests/#:~:text=Higher%20than%20normal%20levels%20of,abnormal%20your%20test%20results%20are. 
+Protein S	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					IU/dL	removed	removed		There is no upper limit. More is better. https://medlineplus.gov/lab-tests/protein-c-and-protein-s-tests/#:~:text=Higher%20than%20normal%20levels%20of,abnormal%20your%20test%20results%20are. 
+Random blood sugar (RBS)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mg/dl	0	50	Literature (SS)	
+Red blood cell count (RBC)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						2.5	7.5		From previous tasks sheet
+Red blood cell distribution width (RDW)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						9	15		From previous tasks sheet
+Ejection Fraction	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					%	0	100		https://www.mayoclinic.org/tests-procedures/ekg/expert-answers/ejection-fraction/faq-20058286#:~:text=According%20to%20the%20American%20Heart,is%20usually%2040%25%20or%20less.
+Rheumatoid factor (RhF)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					IU/ml	0	5000	Literature (SS)	SS: maximum value the testing kits allow to report. 
+Serum Iron	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	500		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10594145/
+Serum Potassium	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmol/L	0	14	Literature (SS)	https://acutecaretesting.org/en/journal-scans/a-record-breaking-serum-potassium-concentration
+Serum Sodium	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmol/L	0	200	Literature (SS)	
+Serum/plasma urea	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mg/dl	0	100	Literature (SS)	https://www.amjmedsci.org/article/S0002-9629(15)34356-1/abstract
+Standing height	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					CM	54	272		Use guiness book of records
+Systolic blood pressure (SBP)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmHg	80	250	Literature (SS)	
+Thyroid Stimulating Hormone	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mU/L	0	20	Literature (SS)	
+Total Iron Binding Capacity 	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	300		normal range- 0-400
+Serum Protein	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					g/L	0	200		We had g/L (0 -200) for total protein. Check if still applicable here.
+Urea in urine 	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mmol/L	0	3000	Literature (SS)	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758351/
+Urine albumin to creatinine ratio (ACR)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					mg/mmol	1	5000		https://journals.sagepub.com/doi/pdf/10.1258/acb.2009.009001
+Urine Protein	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					g/L	0	200		We had g/L (0 -200) for total protein. Check if still applicable here.
+Vitamin D (D2/D3/Combined/Total?) - lump	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y					ng/mL	1	300		normal range- 0-100; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045493/#:~:text=However%2C%20in%20general%2C%20serum%20total,D3%20concentrations%20are%20normal.
+White blood cell count (WBC)	CPRD Aurum / EMIS Medical Dictionary	5/14/2024	Y						0	850		From previous tasks sheet
